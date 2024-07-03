@@ -36,7 +36,11 @@ class Labrador2 {
 const lab2 = new Labrador2("rex2", 4, "female", "rambo2");
 console.log(lab2);
 
+<<<<<<< HEAD
 // Solution 3 (clever) using the arguments object:
+=======
+// Solution 3 (clever) using arguments object:
+>>>>>>> 5c2071371698c1d88223262803def2d505bb8a47
 
 class Labrador3 extends Dog {
   constructor(name, age, gender, master) {
